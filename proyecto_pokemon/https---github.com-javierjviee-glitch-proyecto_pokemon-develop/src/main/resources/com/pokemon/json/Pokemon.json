@@ -1,0 +1,70 @@
+[
+  {
+    "nombre": "Arcanine",
+    "tipo":"FUEGO",
+    "hpMax": 100, "nivel":50, "ataque": 110, "defensa": 80, "ataqueEspecial": 100, "defensaEspecial": 80, "velocidad": 95,
+    "rutaImg": "/com/pokemon/img/arcanine.png",
+    "habilidades": [
+      { "nombre": "Velocidad Extrema", "poder": 40, "tipo": "NORMAL" }, 
+      { "nombre": "Lanzallamas", "poder": 90, "tipo": "FUEGO" },
+      { "nombre": "Aullido", "poder": 0, "tipo": "NORMAL" },
+      { "nombre": "Rugido", "poder": 0, "tipo": "NORMAL" },
+      { "nombre": "Pocion Cura", "poder": 50, "tipo": "NORMAL"}
+
+    ]
+  },
+  {
+    "nombre": "Samurott",
+    "tipo":"AGUA",
+    "hpMax": 95, "nivel":50, "ataque": 100, "defensa": 85, "ataqueEspecial": 108, "defensaEspecial": 70, "velocidad": 70,
+    "rutaImg": "/com/pokemon/img/samurott.png",
+    "habilidades": [
+      { "nombre": "Acua Jet", "poder": 40, "tipo": "AGUA" },
+      { "nombre": "Hidrobomba", "poder": 110, "tipo": "AGUA" },
+      { "nombre": "Danza Espada", "poder": 0, "tipo": "NORMAL" },
+      { "nombre": "Moflete Estático", "poder": 0, "tipo": "ELECTRICO" },
+      { "nombre": "Pocion Cura", "poder": 50, "tipo": "NORMAL"}
+    ]
+  },
+  {
+    "nombre": "Luxray",
+    "tipo":"ELECTRICO",
+    "hpMax": 80, "nivel":50, "ataque": 120, "defensa": 79, "ataqueEspecial": 95, "defensaEspecial": 79, "velocidad": 70,
+    "rutaImg": "/com/pokemon/img/luxray.png",
+    "habilidades": [
+      { "nombre": "Mordisco", "poder": 60, "tipo": "NORMAL" },
+      { "nombre": "Chispazo", "poder": 80, "tipo": "ELECTRICO" },
+      { "nombre": "Carga", "poder": 0, "tipo": "ELECTRICO" },
+      { "nombre": "Intimidar", "poder": 0, "tipo": "NORMAL" },
+      { "nombre": "Pocion Cura", "poder": 50, "tipo": "NORMAL"}
+    ]
+  },
+  {
+    "nombre": "Serperior",
+    "tipo":"PLANTA",
+    "hpMax": 75, "nivel":50, "ataque": 75, "defensa": 95, "ataqueEspecial": 75, "defensaEspecial": 95, "velocidad": 113,
+    "rutaImg": "/com/pokemon/img/serperior.png",
+    "habilidades": [
+      { "nombre": "Placaje", "poder": 40, "tipo": "NORMAL" },
+      { "nombre": "Lluevehojas", "poder": 130, "tipo": "PLANTA" },
+      { "nombre": "Sintesis", "poder": 0, "tipo": "PLANTA" },
+      { "nombre": "Deslumbrar", "poder": 0, "tipo": "NORMAL" },
+      { "nombre": "Pocion Cura", "poder": 50, "tipo": "NORMAL"}
+
+    ]
+  },
+  {
+    "nombre": "Dragonite",
+    "tipo":"DRAGON",
+    "hpMax": 120, "nivel":50, "ataque": 134, "defensa": 95, "ataqueEspecial": 100, "defensaEspecial": 100, "velocidad": 80,
+    "rutaImg": "/com/pokemon/img/dragonite.png",
+    "habilidades": [
+      { "nombre": "Golpe", "poder": 100, "tipo": "NORMAL" },
+      { "nombre": "Pulso Dragón", "poder": 85, "tipo": "DRAGON" },
+      { "nombre": "Danza Dragón", "poder": 0, "tipo": "DRAGON" },
+      { "nombre": "Onda Trueno", "poder": 0, "tipo": "ELECTRICO" },
+      { "nombre": "Pocion Cura", "poder": 50, "tipo": "NORMAL"}
+
+    ]
+  }
+]
